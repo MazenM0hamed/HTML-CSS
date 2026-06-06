@@ -1,19 +1,24 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Personal Portfolio Landing Page
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple and responsive personal portfolio landing page built with HTML and CSS. This project was created as part of an HTML & CSS fundamentals challenge to practice semantic HTML, typography, layout design, and CSS styling.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Preview
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+The page introduces a fictional graphic designer named Sophie and includes:
 
-Happy Coding!
+- Hero section with profile image
+- About Me section
+- Recent Article section
+- Call-to-action buttons
+- Custom typography using Google Fonts
+- Dark and light themed sections
+
+## Features
+
+- Semantic HTML5 structure
+- Responsive centered layout
+- Custom button styling with hover effects
+- Consistent typography hierarchy
+- Reusable CSS utility classes
+- Full-width section backgrounds
+- Google Fonts integration (Roboto Light & Black)
