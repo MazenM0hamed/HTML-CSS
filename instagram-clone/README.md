@@ -7,8 +7,8 @@ A simple social media feed inspired by Instagram, featuring famous artists and t
 This project displays:
 - User profile information.
 - Artwork posts.
-- Social interaction icons (like, comment, direct message)
-- Like count and post captions
+- Social interaction icons (like, comment, direct message).
+- Like count and post captions.
 
 ## Future Improvements
 
