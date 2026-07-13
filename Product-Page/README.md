@@ -5,4 +5,4 @@ A responsive landing page built with **HTML5** and **CSS3** that promotes a fict
 ---
 
 ## 📸 Preview
-![Desktop Preview](images/UI.png)
+![Desktop Preview](images/UI.PNG)
